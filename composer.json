@@ -45,7 +45,9 @@
         "fakerphp/faker": "^1.16",
         "google/recaptcha": "^1.2",
         "phpstan/phpstan": "^1.2.0",
-        "phpunit/phpunit": "^9.5.10"
+        "phpunit/phpunit": "^9.5.10",
+        "league/flysystem": "^3.0",
+        "league/flysystem-bundle": "^2.2"
     },
     "scripts": {
         "ci": [
